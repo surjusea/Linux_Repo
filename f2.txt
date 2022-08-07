@@ -1,6 +1,3 @@
 dfasgdgfn 
-<<<<<<< HEAD
 second line added
 third line added
-=======
->>>>>>> parent of 4d5cabf (line 2 added)
